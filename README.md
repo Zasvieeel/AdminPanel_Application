@@ -10,7 +10,7 @@ dan bisa kalian jadikan sebagai acuan media pembelajaran 😃
 jika kalian ingin menggunakan UI ini atau template yang saya buat. Kalian harus memperhatikan
 beberapa syarat yaa.
 
-## 📌Beberapa Syaratnya :
+## 📌 Beberapa Syaratnya :
   * Mempersiapkan Software Visual Studio 2019
   * Menginstall Package nuget
   * Menginstall Package MySQL Ver terbaru
